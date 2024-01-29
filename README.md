@@ -1,6 +1,8 @@
 # Tabela html
 • Repositório FrontEnd Mentor #1
 
+(Eu não sei como completar os desafios do frontend mentor, então os projetos que estão pendentes, os que estão no meu perfil estão prontos)
+
 • SITE DE RECEITAS
 
 • Menções:
