@@ -1,17 +1,17 @@
 # Tabela html
-• Repositório tabela do módulo html
+• Repositório FrontEnd Mentor #1
 
 • SITE DE RECEITAS
 
 • Menções:
-  • Primeiro projeto feito sozinho
-  • Tive que recorrer ao chatGPT 3 vezes para criar uma aparência de folha central, para juntar dois textos com cores (tag <span>). (Lembrete: Tive que usar duas vezes para setar as cores e juntar os textos)
-  • Tive dificuldade diverças vezes e tive que recorrer a um código já feito com muita ajuda dos devs criadores do canal no youtube Dev em Dobro, na Semana do 0 ao programador contratado.
-  • Tive extremas facilidade ao realizar os códigos em css.
-  • Projeto feito para o frontEnd Mentor.
-  • Tive dificuldades de conseguir criar um texto intuitivo e legal
-  • Tive que olhar diversas vezes para o modelo final no frontEnd Mentor
-  • As fontes e imagens foram retiradas do frontEnd Mentor
+   Primeiro projeto feito sozinho
+  , Tive que recorrer ao chatGPT 3 vezes para criar uma aparência de folha central, para juntar dois textos com cores (tag <span>). (Lembrete: Tive que usar duas vezes para setar as cores e juntar os textos)
+  , Tive dificuldade diverças vezes e tive que recorrer a um código já feito com muita ajuda dos devs criadores do canal no youtube Dev em Dobro, na Semana do 0 ao programador contratado.
+  , Tive extremas facilidade ao realizar os códigos em css.
+  , Projeto feito para o frontEnd Mentor.
+  , Tive dificuldades de conseguir criar um texto intuitivo e legal
+  , Tive que olhar diversas vezes para o modelo final no frontEnd Mentor
+  , As fontes e imagens foram retiradas do frontEnd Mentor
 
 • Aqui está o código: (HTML)
 
